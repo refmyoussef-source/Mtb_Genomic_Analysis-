@@ -1,0 +1,17 @@
+
+# Ignore large data files
+data/
+00_raw_sra/
+01_raw_fastq/
+
+# Ignore analysis results
+analysis/
+*.html
+*.log
+
+# Ignore jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+*.yml
+
