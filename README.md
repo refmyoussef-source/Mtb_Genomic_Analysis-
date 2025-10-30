@@ -57,7 +57,7 @@ This project is fully reproducible.
 
 1.  Clone the repository:
     ```bash
-    git clone [Your-Repo-URL]
+    git clone https://github.com/refmyoussef-source/Mtb_Genomic_Analysis-.git
     ```
 2.  Create and activate the Conda environment:
     ```bash
