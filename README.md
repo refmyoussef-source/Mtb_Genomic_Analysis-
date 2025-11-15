@@ -1,8 +1,5 @@
 # Project 2: M. tuberculosis Comparative Genomics (PAS Resistance)
 
-* **Author: Youssef Mimoune**
-* **Date: 26-Oct-2025**
-
 ---
 
 ## 1. Project Objective
