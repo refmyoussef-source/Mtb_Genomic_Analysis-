@@ -32,7 +32,7 @@ The primary mechanism of PAS resistance involves mutations in the folate pathway
 * `thyA` (Thymidylate synthase)
 * `ribD` (Riboflavin biosynthesis protein)
 
-**Result:** All five genes were **100% identical** at the protein level between the resistant and control strains. This definitively proves that the resistance is **non-canonical**.
+**Result:** All five genes were **100% identical** at the protein level between the resistant and control strains. This definitely proves that the resistance is **non-canonical**.
 
 ### Finding 2: Unbiased Pangenome Search (SUCCESS)
 
